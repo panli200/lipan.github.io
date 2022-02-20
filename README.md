@@ -13,3 +13,4 @@ This is a personal website repository. My website at [https://lipan.github.io](h
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/API/CSS)
 - [Adobe XD](https://www.adobe.com/ca/products/xd.html)
+- [GitHub Pages Documentation](https://docs.github.com/en/pages)
