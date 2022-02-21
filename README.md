@@ -6,7 +6,7 @@
 ---
 
 # Introduction
-This is a personal website repository. My website at [https://lipan.github.io](https://lipan.github.io)
+This is a personal website repository. My website at [https://lipan.ca](https://lipan.ca)
 
 ---
 # Technology Stack
